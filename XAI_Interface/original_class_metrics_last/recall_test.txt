@@ -1,0 +1,10 @@
+Class 0: 0.9971
+Class 1: 0.9961
+Class 2: 0.9990
+Class 3: 0.9951
+Class 4: 0.9959
+Class 5: 0.9934
+Class 6: 0.9980
+Class 7: 0.9972
+Class 8: 0.9956
+Class 9: 0.9933
