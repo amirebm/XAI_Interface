@@ -89,6 +89,27 @@ Once the interface is running:
 
 ---
 
+## Code Explanation Blocks
+If you want to find the function(s) used in each part of interface open them code_map.jpg, each code block can be found in Helper_Functions.py like following : 
+
+######******* START CODE BLOCK 1********######
+
+
+.
+.
+.
+
+
+#########******* END CODE BLOCK 1********#####
 
 ---
+
+## High Process Functions 
+There are functions used in this project ranging from training the model to finding overall confidence value of all misclassified examples WRT adversarial attacks which we already run them.
+These Functions are located in High_process_functions.py and excuted in High_process_functions_execution.py. 
+
+---
+
+---
+
 
