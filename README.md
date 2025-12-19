@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # XAI_Interface
-=======
+
 # Cognitive XAI Interface - Robustness Evaluation
 
 ## Project Overview
